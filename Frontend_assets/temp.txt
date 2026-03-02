@@ -1,2 +1,0 @@
-For the Front end members, Commit your files and in the commit messages' extended description add your names like this example 
-temp.txt file commit.
